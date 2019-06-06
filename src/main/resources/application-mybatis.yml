@@ -1,0 +1,4 @@
+##-----------mybatis映射配置-------------------##
+mybatis:
+  type-aliases-package: com.entity
+  mapper-locations: classpath:mapper/*.xml

@@ -1,0 +1,10 @@
+##-----------上线环境的配置信息-------------------##
+my-datasource:
+  url: jdbc:mysql://gz-cdb-mvaq3bx7.sql.tencentcdb.com:62983/ealigner_case_test?useUnicode=true&useSSL=true&allowMultiQueries=true
+  username: root
+  password: 123asd!@#
+my-redis:
+  host: 134.175.194.30
+  port: 6379
+  password: 123456
+  database: 0

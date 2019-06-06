@@ -1,0 +1,6 @@
+server:
+  session-timeout: 60
+  tomcat.uri-encoding: UTF-8
+  port: 8090
+  servlet:
+    context-path: /demo

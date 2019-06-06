@@ -1,0 +1,7 @@
+spring:
+  profiles:
+      active: test
+      include: datasource,log,mybatis,redis,tomcat
+  application:
+      #服务的名字
+      name: demo
