@@ -22,7 +22,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <boot.version>2.0.4.RELEASE</boot.version>
+        <boot.version>2.5.12</boot.version>
         <druid.version>1.1.0</druid.version>
         <mybatis.version>1.3.1</mybatis.version>
         <mapper.version>1.2.4</mapper.version>
